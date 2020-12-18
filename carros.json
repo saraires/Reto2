@@ -1,0 +1,37 @@
+[
+    {
+        "id": 1,
+        "marca": "Ford",
+        "modelo": 2009,
+        "comprador": "Roscoe Dexter",
+        "numeroTarjeta": "3582876135814294"
+    },
+    {
+        "id": 2,
+        "marca": "Audi",
+        "modelo": 2008,
+        "comprador": "Guglielmo Moult",
+        "numeroTarjeta": "3576051170427893"
+    },
+    {
+        "id": 3,
+        "marca": "Ford",
+        "modelo": 1991,
+        "comprador": "Dede Cadore",
+        "numeroTarjeta": "372952166278491"
+    },
+    {
+        "id": 4,
+        "marca": "Lamborghini",
+        "modelo": 1993,
+        "comprador": "Court Imlach",
+        "numeroTarjeta": "5321882898810223"
+    },
+    {
+        "id": 5,
+        "marca": "BMW",
+        "modelo": 1999,
+        "comprador": "Lily Pinwill",
+        "numeroTarjeta": "3558462692524442"
+    }
+]
